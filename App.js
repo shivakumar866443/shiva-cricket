@@ -1,6 +1,6 @@
 import React from 'react';
 import './index.css'
-
+//this is the main component 
 import ScrollingLinks from './components/ScrollingLinks'
 import ButtonsSection from './components/ButtonsSection'
 import Data from './components/Data'
