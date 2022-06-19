@@ -1,0 +1,38 @@
+.decoration{
+    text-decoration: none;
+    color:white;
+    
+}
+
+.decoration2{
+    color:white;
+    text-decoration: none;
+    border:2px solid green;
+    margin:5px 50px 5px 0px;
+    padding:10px;
+    border-radius:10px;
+}
+
+.data-style{
+    display:flex;
+    justify-content: space-between;
+    background-color:#2e3d54;
+    margin:5px;
+}
+
+.card-style{
+    display:flex;
+    justify-content: space-around;
+    background-color:#2e3d54;
+    margin:10px;
+    
+}
+
+.form_design{
+    margin:10px;
+    
+}
+
+.set-color{
+    background-color: green;
+}
